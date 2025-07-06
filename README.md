@@ -1,16 +1,53 @@
-# hello_app_fixed
+# To-Do List App
 
-A new Flutter project.
+A clean and simple **To-Do List application** built using Flutter. This app allows users to manage daily tasks by adding, completing, and deleting to-dos — helping stay organized and productive.
 
-## Getting Started
+![Platform](https://img.shields.io/badge/platform-Android-blue) ![License](https://img.shields.io/badge/license-MIT-green)
 
-This project is a starting point for a Flutter application.
+## 🚀 Features
 
-A few resources to get you started if this is your first Flutter project:
+- ✅ Add tasks  
+- ✅ Mark tasks as completed  
+- ✅ Delete tasks  
+- ✅ Clean, minimal UI  
+- ✅ Smooth performance  
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 📱 Screenshots
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<!-- Replace with actual screenshots -->
+<p float="left">
+  <img src="screenshots/screen1.png" width="200">
+  <img src="screenshots/screen2.png" width="200">
+</p>
+
+## 🛠 Getting Started
+
+### Prerequisites
+
+- Flutter (latest stable)  
+- Android Studio / VS Code  
+- Android device or emulator  
+
+### Run Locally
+
+```bash
+git clone https://github.com/hvssanraza/To-Do-List-Application-.git
+cd To-Do-List-Application-
+flutter pub get
+flutter run
+📁 Project Structure
+bash
+Copy
+Edit
+lib/
+├── main.dart          # App entry point
+└── (widgets, models)  # Custom widgets and logic
+📦 Supported Platforms
+✅ Android
+
+⚠️ iOS (add configuration if needed)
+
+⚠️ Web (not tested)
+
+📄 License
+This project is licensed under the MIT License.
