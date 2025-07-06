@@ -12,13 +12,6 @@ A clean and simple **To-Do List application** built using Flutter. This app allo
 - ✅ Clean, minimal UI  
 - ✅ Smooth performance  
 
-## 📱 Screenshots
-
-<!-- Replace with actual screenshots -->
-<p float="left">
-  <img src="screenshots/screen1.png" width="200">
-  <img src="screenshots/screen2.png" width="200">
-</p>
 
 ## 🛠 Getting Started
 
